@@ -1,0 +1,4 @@
+#!/bin/bash
+pip install numpy
+
+python3 hw1.py
